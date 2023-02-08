@@ -3,4 +3,4 @@ This repository showcases the depth and range of my experience and skills in Pyt
 
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
-[Python Fundamentals](url:) | Wrote code covering Python fundemental topics | Variable, Data Types, Comparison, Logical, Membership operators, IF Else Statements, For loops, While Loops, Functions and Converting data types
+[Python Fundamentals](https://github.com/Chris-Ramirez-Github/Python-Portfolio-Projects/tree/main/Python%20Fundamentals) | Wrote code covering Python fundemental topics | Variable, Data Types, Comparison, Logical, Membership operators, IF Else Statements, For loops, While Loops, Functions and Converting data types
